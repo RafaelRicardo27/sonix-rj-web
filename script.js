@@ -42,7 +42,7 @@ const products = [
     name: "COMBO SMARTBAND 2 EN 1",
     summary: "Sonido envolvente, Reloj inteligente,la bateria de 4 horas ",
     description: "Reloj inteligente con mas de 15 funciones distintas con audífonos TWS inalámbricos V5.2, duración de la bateria de 4 horas y rango de 10m",
-    price: 38900,
+    price: 59900,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVEAEcpfXqAHObLrFjpI4yYLXQIw8lHZM0w&s",
     badge: "AUDIO",
     keywords: ["audifono", "audifonos", "auricular", "bluetooth", "audio", "musica", "sonido", "cascos", "reloj", "smartwatch", "reloj inteligente", "fitness", "deporte", "wearable"]
@@ -52,7 +52,7 @@ const products = [
     name: "AUDIFONOS A2",
     summary: "Conectividad Bluetooth 5.3, Colores: Negro, ",
     description: "Conectividad Bluetooth 5.3Colores: Blanco, Azul, Negroy Rosado con hasta 4h deuso + carga extra con el estuche",
-    price: 18900,
+    price: 29900,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRfOUbKLrjZ70OwjWqvRvy5ERbimpsmFyng&s",
     badge: "AUDIO",
     keywords: ["audifono", "audifonos", "auricular", "bluetooth", "audio", "musica", "sonido", "cascos"]
@@ -62,7 +62,7 @@ const products = [
     name: "AIRPODS A6S",
     summary: "resistencia al agua IPX4,auriculares in-ear,conocidos por su diseño compacto",
     description: "Bluetooth V 5.0Tiempo de trabajo 3-4 horasSon de alta resistencia con estilodeportivo auriculares in-ear inalámbricos de gama económica con Bluetooth 5.0/5.1, conocidos por su diseño compacto, resistencia al agua IPX4 y estuche de carga magnético",
-    price: 15200,
+    price: 26000,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXwottI9XuIJfW4UTbWzyvtgJErJd9h2RkQ&s",
     badge: "AUDIO",
     keywords: ["audifono", "audifonos", "auricular", "bluetooth", "audio", "musica", "sonido", "cascos"]
@@ -72,7 +72,7 @@ const products = [
     name: "AURICULARES X15 GAMING",
     summary: "diseñados para gaming, iluminación RGB, sin almohadillas",
     description: "son audífonos TWS (True Wireless) diseñados para gaming, destacados por su iluminación RGB, Bluetooth 5.0/5.1 y un diseño ergonómico",
-    price: 15900,
+    price: 25000,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7A6JvPdLNqLLucwTctTx_Ox9YVpq-1zNQw&s",
     badge: "GAMING",
     keywords: ["auricular", "audifono", "audifonos", "bluetooth", "audio", "musica", "sonido", "cascos", "gaming", "rgb"]
@@ -82,7 +82,7 @@ const products = [
     name: "PARLANTE MS-1695BT",
     summary: "Color: Negro, Potencia: 5W Bocina de 3 pulgadas Con TF card, USB, FM y Bluetooth",
     description: "dispositivo compacto de audio inalámbrico con conectividad Bluetooth, luces LED integradas y batería recargable. Ofrece funciones versátiles como radio FM, lector de tarjetas TF/MicroSD y puerto USB, ideal para reproducir música en exteriores o espacios pequeños con una potencia de 5W",
-    price: 17900,
+    price: 33000,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3icI3nw2Tj__3n-HimpJi_wZ0zg4aXvw4oQ&s",
     badge: "AUDIO",
     keywords: ["parlante", "bocina", "speaker", "bluetooth", "audio", "musica", "portatil"]
@@ -92,7 +92,7 @@ const products = [
     name: "PARLANTE MS-1695BT ",
     summary: "Color: Negro, Potencia: 5W Bocina de 3 pulgadas, Con TF card, USB, FM y Bluetooth",
     description: "dispositivo compacto y versátil de 5W de potencia con conectividad Bluetooth, radio FM y lector de memorias USB/Micro SD. Cuenta con batería recargable, luces LED decorativas, entrada auxiliar y opción de uso con batería externa, ideal para llevar a cualquier lugar.",
-    price: 17900,
+    price: 35000,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyi9RX_hHK2GzzpVXbmkBBb_3rB8DG_z5yg&s",
     badge: "AUDIO",
     keywords: ["parlante", "bocina", "speaker", "bluetooth", "audio", "musica", "portatil"]
@@ -102,7 +102,7 @@ const products = [
     name: "DIADEMAS 123",
     summary: "cancelación de ruidoColores: Negro, plateado,morado, verde, rosado y azul",
     description: "La Diadema i23 / BG-123 es un sistema de audio inalámbrico de alto rendimiento que combina conectividad Bluetooth 5.1 con controladores dinámicos de 40 mm para una experiencia de sonido Hi-Fi superior. Su diseño ergonómico y plegable integra almohadillas de alto confort, garantizando aislamiento pasivo y durabilidad. Ofrece versatilidad total mediante soporte para tarjetas Micro SD, Radio FM y entrada auxiliar, además de un micrófono omnidireccional para llamadas en manos libres con una autonomía de hasta 8 horas de uso continuo.",
-    price: 27900,
+    price: 38000,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YBYtTRhe1rOtqSFOQkfsO9lL5Crh8vySPw&s",
     badge: "AUDIO",
     keywords: ["diadema", "auricular", "audifono", "bluetooth", "audio", "musica", "sonido"]
