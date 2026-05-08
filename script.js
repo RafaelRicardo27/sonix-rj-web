@@ -27,7 +27,7 @@ import {
 
 const socialLinks = {
   whatsapp:  "573170780206",       // SIN el +
-  instagram: "samuelrodriguez9855", // SIN @
+  instagram: "sonix.company", // SIN @
   facebook:  "sonixrjcompany"      // slug de tu página
 };
 
