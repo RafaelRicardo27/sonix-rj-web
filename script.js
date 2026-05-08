@@ -99,7 +99,7 @@ const products = [
   },
   {
     id: 7,
-    name: "DIADEMAS 123",
+    name: "DIADEMAS i23",
     summary: "cancelación de ruidoColores: Negro, plateado,morado, verde, rosado y azul",
     description: "La Diadema i23 / BG-123 es un sistema de audio inalámbrico de alto rendimiento que combina conectividad Bluetooth 5.1 con controladores dinámicos de 40 mm para una experiencia de sonido Hi-Fi superior. Su diseño ergonómico y plegable integra almohadillas de alto confort, garantizando aislamiento pasivo y durabilidad. Ofrece versatilidad total mediante soporte para tarjetas Micro SD, Radio FM y entrada auxiliar, además de un micrófono omnidireccional para llamadas en manos libres con una autonomía de hasta 8 horas de uso continuo.",
     price: 38000,
