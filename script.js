@@ -89,7 +89,7 @@ const products = [
   },
   {
     id: 6,
-    name: "PARLANTE MS-1695BT ",
+    name: "PARLANTE MS-1693BT ",
     summary: "Color: Negro, Potencia: 5W Bocina de 3 pulgadas, Con TF card, USB, FM y Bluetooth",
     description: "dispositivo compacto y versátil de 5W de potencia con conectividad Bluetooth, radio FM y lector de memorias USB/Micro SD. Cuenta con batería recargable, luces LED decorativas, entrada auxiliar y opción de uso con batería externa, ideal para llevar a cualquier lugar.",
     price: 35000,
