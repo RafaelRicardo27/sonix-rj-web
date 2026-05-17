@@ -136,7 +136,6 @@ const products = [
     price: 38000,
     images: [
       "img/23i1.png",
-      "img/23i2.png",
       "img/23i3.png",
       "img/23i4.png",
       "img/23i5.png",
